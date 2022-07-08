@@ -7,16 +7,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        -  token: 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
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.4.0
       # Transform Figma Tokens JSON to something Style Dictionary can read && Convert tokens according to Style Dictionary config
       - run: npm i
       - run: npm run build
-      - uses: actions/checkout@v2
-        with:
-          token: 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
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          token: ${{ secrets.PAT }}
           commit_message: Update Tokens

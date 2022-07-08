@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          token: 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
+          token: ${{ secrets.GH_PAT }}
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.4.0
       # Transform Figma Tokens JSON to something Style Dictionary can read && Convert tokens according to Style Dictionary config

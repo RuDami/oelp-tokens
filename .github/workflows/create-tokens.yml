@@ -12,7 +12,6 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.4.0
       # Transform Figma Tokens JSON to something Style Dictionary can read && Convert tokens according to Style Dictionary config
-      -
       - run: npm i
       - run: npm run build
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.

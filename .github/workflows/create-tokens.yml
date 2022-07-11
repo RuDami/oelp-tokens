@@ -1,8 +1,9 @@
 name: CI
 on:
   push:
-    tags-ignore:
-      - workflow
+    paths-ignore:
+      - 'css/**'
+      - 'js/**'
 
 jobs:
   build:

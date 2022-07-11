@@ -1,8 +1,8 @@
 name: CI
 on:
   push:
-    tags-ignore:
-      - 'workflow'
+    tags:
+      - '!workflow'
 
 jobs:
   build:

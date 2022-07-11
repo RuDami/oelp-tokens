@@ -24,11 +24,11 @@
         "type": "fontSizes"
       },
       "x3,5": {
-        "value": "{fontSize.basic} * 3,5",
+        "value": "{fontSize.basic} * 3.5",
         "type": "fontSizes"
       },
       "x3,25": {
-        "value": "{fontSize.basic} * 3,25",
+        "value": "{fontSize.basic} * 3.25",
         "type": "fontSizes"
       },
       "x3": {
@@ -36,7 +36,7 @@
         "type": "fontSizes"
       },
       "x2,75": {
-        "value": "{fontSize.basic} * 2,75",
+        "value": "{fontSize.basic} * 2.75",
         "type": "fontSizes"
       },
       "basic": {

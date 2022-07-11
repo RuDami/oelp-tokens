@@ -24,3 +24,4 @@ jobs:
         with:
           commit_message: Update Tokens
           tags: WorkFlow
+          tagging_message: 'WorkFlow'

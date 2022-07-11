@@ -1,5 +1,8 @@
 name: CI
-on: [push]
+on:
+  push:
+    tags-ignore:
+      - WorkFlow
 
 jobs:
   build:
@@ -18,3 +21,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Tokens
+          tags: 'WorkFlow'

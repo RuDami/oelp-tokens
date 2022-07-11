@@ -4,8 +4,7 @@ on:
     branches:
       - main
     tags-ignore:
-      - 'WorkFlow'
-      - WorkFlow
+      - workflow
 
 jobs:
   build:
@@ -24,5 +23,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Tokens
-
-          tagging_message: WorkFlow
+          tags: workflow
+          tagging_message: workflow

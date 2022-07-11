@@ -1,8 +1,6 @@
 name: CI
 on:
   push:
-    tags-ignore:
-      - build
     paths-ignore:
       - 'css/**'
       - 'js/**'

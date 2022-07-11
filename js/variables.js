@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 11 Jul 2022 09:14:46 GMT
+ * Generated on Mon, 11 Jul 2022 09:15:16 GMT
  */
 
 export const TokenGray0 = "#fcfcfc";

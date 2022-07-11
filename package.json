@@ -4,7 +4,7 @@
   "description": "oelp-tokens",
   "main": "index.js",
   "scripts": {
-    "build-tokens-dictionary": "npx token-transformer tokens.json tokens/tokens.json --expandTypography=true --expandShadow=true  --resolveReferences=true",
+    "build-tokens-dictionary": "npx token-transformer color-tokens.json tokens/tokens.json --expandTypography=true --expandShadow=true  --resolveReferences=true",
     "build-dictionary": "style-dictionary build --config ./config.json",
     "build": "npm run build-tokens-dictionary && npm run build-dictionary"
   },

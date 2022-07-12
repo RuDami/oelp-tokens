@@ -1,11 +1,11 @@
 {
-  "source": ["./tokens-light/**/*.json"],
+  "source": ["./tokens-dark/**/*.json"],
   "platforms": {
     "scss": {
       "transformGroup": "scss",
       "buildPath": "./css/",
       "files": [{
-        "destination": "variables.scss",
+        "destination": "variables-dark.scss",
         "format": "scss/variables"
       }]
     },
@@ -13,7 +13,7 @@
       "transformGroup": "js",
       "buildPath": "./js/",
       "files": [{
-        "destination": "variables.js",
+        "destination": "variables-dark.js",
         "format": "javascript/es6"
       }]
     }

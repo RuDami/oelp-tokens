@@ -4,10 +4,15 @@
   "description": "oelp-tokens",
   "main": "index.js",
   "scripts": {
-    "build-tokens-dictionary-colors": "npx token-transformer color-tokens.json tokens/color-tokens.json --expandTypography=true --expandShadow=true  --resolveReferences=true",
-    "build-tokens-dictionary-web": "npx token-transformer web-tokens.json tokens/web-tokens.json --expandTypography=true --expandShadow=true  --resolveReferences=true",
-    "build-dictionary": "style-dictionary build --config ./config.json",
-    "build": "npm run build-tokens-dictionary-web && npm run build-tokens-dictionary-colors && npm run build-dictionary"
+    "build-tokens-dictionary-colors-light": "npx token-transformer color-tokens.json  tokens-light/color-tokens.json main,light --expandTypography=true --expandShadow=true  --resolveReferences='math'",
+    "build-tokens-dictionary-colors-dark": "npx token-transformer color-tokens.json  tokens-dark/color-tokens.json main,dark --expandTypography=true --expandShadow=true  --resolveReferences='math'",
+    "build-tokens-dictionary-web-light": "npx token-transformer web-tokens.json  tokens-light/web-tokens.json main,light --expandTypography=true --expandShadow=true  --resolveReferences='math'",
+    "build-tokens-dictionary-web-dark": "npx token-transformer web-tokens.json  tokens-dark/web-tokens.json main,dark --expandTypography=true --expandShadow=true  --resolveReferences='math'",
+    "build-dictionary-light": "style-dictionary build --config ./config.json",
+    "build-dictionary-dark": "style-dictionary build --config ./config-dark.json",
+    "build-light": "npm run build-tokens-dictionary-web-light && npm run build-tokens-dictionary-colors-light && npm run build-dictionary-light",
+    "build-dark": "npm run build-tokens-dictionary-web-dark && npm run build-tokens-dictionary-colors-dark && npm run build-dictionary-dark",
+    "build": "npm run build-light && npm run build-dark"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 12 Jul 2022 12:18:11 GMT
+ * Generated on Tue, 12 Jul 2022 12:31:59 GMT
  */
 
 export const Gray0 = "#fcfcfc";
@@ -51,7 +51,19 @@ export const MacroRegionOutlinePink = "#f986a5";
 export const MacroRegionOutlineOrange = "#f6ce9e";
 export const MacroRegionOutlineDarkGreen = "#54ed76";
 export const MacroRegionOutlineBlue = "#b8ebf5";
-export const FontFamiliesInter = "Inter";
+export const DefaultX = 2;
+export const DefaultY = 2;
+export const DefaultBlur = 12;
+export const DefaultSpread = 0;
+export const DefaultColor = "#0512460f";
+export const DefaultType = "dropShadow";
+export const ActiveX = 2;
+export const ActiveY = 2;
+export const ActiveBlur = 12;
+export const ActiveSpread = 0;
+export const ActiveColor = "#0208201f";
+export const ActiveType = "dropShadow";
+export const FontFamiliesMain = "Inter";
 export const FontSizeX8 = 32;
 export const FontSizeX6 = 24;
 export const FontSizeX5 = 20;
@@ -388,15 +400,3 @@ export const Caption11Weight3LetterSpacing = 0;
 export const Caption11Weight3ParagraphSpacing = 0;
 export const Caption11Weight3TextCase = "none";
 export const Caption11Weight3TextDecoration = "none";
-export const DefaultColor = "#0512460f";
-export const DefaultType = "dropShadow";
-export const DefaultX = 0;
-export const DefaultY = 2;
-export const DefaultBlur = 12;
-export const DefaultSpread = 0;
-export const ActiveColor = "#0208201f";
-export const ActiveType = "dropShadow";
-export const ActiveX = 0;
-export const ActiveY = 2;
-export const ActiveBlur = 12;
-export const ActiveSpread = 0;

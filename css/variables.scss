@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Tue, 12 Jul 2022 12:18:11 GMT
+// Generated on Tue, 12 Jul 2022 12:31:59 GMT
 
 $gray-0: #fcfcfc;
 $gray-50: #e9e9e9;
@@ -50,7 +50,19 @@ $macro-region-outline-pink: #f986a5;
 $macro-region-outline-orange: #f6ce9e;
 $macro-region-outline-dark-green: #54ed76;
 $macro-region-outline-blue: #b8ebf5;
-$font-families-inter: Inter;
+$default-x: 2;
+$default-y: 2;
+$default-blur: 12;
+$default-spread: 0;
+$default-color: #0512460f;
+$default-type: dropShadow;
+$active-x: 2;
+$active-y: 2;
+$active-blur: 12;
+$active-spread: 0;
+$active-color: #0208201f;
+$active-type: dropShadow;
+$font-families-main: Inter;
 $font-size-x8: 32;
 $font-size-x6: 24;
 $font-size-x5: 20;
@@ -387,15 +399,3 @@ $caption-11-weight-3-letter-spacing: 0;
 $caption-11-weight-3-paragraph-spacing: 0;
 $caption-11-weight-3-text-case: none;
 $caption-11-weight-3-text-decoration: none;
-$default-color: #0512460f;
-$default-type: dropShadow;
-$default-x: 0;
-$default-y: 2;
-$default-blur: 12;
-$default-spread: 0;
-$active-color: #0208201f;
-$active-type: dropShadow;
-$active-x: 0;
-$active-y: 2;
-$active-blur: 12;
-$active-spread: 0;

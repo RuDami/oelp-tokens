@@ -83,23 +83,23 @@
         "value": "0.32px",
         "type": "letterSpacing"
       },
-      "-0,32": {
+      "m0,32": {
         "value": "-0.32px",
         "type": "letterSpacing"
       },
-      "-0,28": {
+      "m0,28": {
         "value": "-0.28px",
         "type": "letterSpacing"
       },
-      "-0,24": {
+      "m0,24": {
         "value": "-0.24px",
         "type": "letterSpacing"
       },
-      "-0,16": {
+      "m0,16": {
         "value": "-0.16px",
         "type": "letterSpacing"
       },
-      "-0,08": {
+      "m0,08": {
         "value": "-0.08px",
         "type": "letterSpacing"
       }
@@ -272,7 +272,7 @@
           "fontWeight": "{fontWeights.semiBold}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,32}",
+          "letterSpacing": "{letterSpacing.m0,32}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -285,7 +285,7 @@
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,32}",
+          "letterSpacing": "{letterSpacing.m0,32}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -298,7 +298,7 @@
           "fontWeight": "{fontWeights.regular}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,32}",
+          "letterSpacing": "{letterSpacing.m0,32}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -313,7 +313,7 @@
           "fontWeight": "{fontWeights.bold}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3,5}",
-          "letterSpacing": "{letterSpacing.-0,16}",
+          "letterSpacing": "{letterSpacing.m0,16}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -326,7 +326,7 @@
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3,5}",
-          "letterSpacing": "{letterSpacing.-0,16}",
+          "letterSpacing": "{letterSpacing.m0,16}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -339,7 +339,7 @@
           "fontWeight": "{fontWeights.regular}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3,5}",
-          "letterSpacing": "{letterSpacing.-0,16}",
+          "letterSpacing": "{letterSpacing.m0,16}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -354,7 +354,7 @@
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,28}",
+          "letterSpacing": "{letterSpacing.m0,28}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -367,7 +367,7 @@
           "fontWeight": "{fontWeights.regular}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,28}",
+          "letterSpacing": "{letterSpacing.m0,28}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -382,7 +382,7 @@
           "fontWeight": "{fontWeights.semiBold}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -395,7 +395,7 @@
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -408,7 +408,7 @@
           "fontWeight": "{fontWeights.regular}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -421,7 +421,7 @@
           "fontWeight": "{fontWeights.semiBold}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3,5}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -434,7 +434,7 @@
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3,5}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -447,7 +447,7 @@
           "fontWeight": "{fontWeights.regular}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3,5}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -462,7 +462,7 @@
           "fontWeight": "{fontWeights.semiBold}",
           "lineHeight": "{lineHeights.x6}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -475,7 +475,7 @@
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeights.x6}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -488,7 +488,7 @@
           "fontWeight": "{fontWeights.regular}",
           "lineHeight": "{lineHeights.x6}",
           "fontSize": "{fontSize.x4}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -501,7 +501,7 @@
           "fontWeight": "{fontWeights.semiBold}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x3,5}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -514,7 +514,7 @@
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x3,5}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -527,7 +527,7 @@
           "fontWeight": "{fontWeights.regular}",
           "lineHeight": "{lineHeights.x5}",
           "fontSize": "{fontSize.x3,5}",
-          "letterSpacing": "{letterSpacing.-0,24}",
+          "letterSpacing": "{letterSpacing.m0,24}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -542,7 +542,7 @@
           "fontWeight": "{fontWeights.semiBold}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3,25}",
-          "letterSpacing": "{letterSpacing.-0,08}",
+          "letterSpacing": "{letterSpacing.m0,08}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -555,7 +555,7 @@
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3,25}",
-          "letterSpacing": "{letterSpacing.-0,08}",
+          "letterSpacing": "{letterSpacing.m0,08}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -568,7 +568,7 @@
           "fontWeight": "{fontWeights.regular}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3,25}",
-          "letterSpacing": "{letterSpacing.-0,08}",
+          "letterSpacing": "{letterSpacing.m0,08}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -581,7 +581,7 @@
           "fontWeight": "{fontWeights.semiBold}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3}",
-          "letterSpacing": "{letterSpacing.-0,08}",
+          "letterSpacing": "{letterSpacing.m0,08}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -594,7 +594,7 @@
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3}",
-          "letterSpacing": "{letterSpacing.-0,08}",
+          "letterSpacing": "{letterSpacing.m0,08}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -607,7 +607,7 @@
           "fontWeight": "{fontWeights.regular}",
           "lineHeight": "{lineHeights.x4}",
           "fontSize": "{fontSize.x3}",
-          "letterSpacing": "{letterSpacing.-0,08}",
+          "letterSpacing": "{letterSpacing.m0,08}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -658,10 +658,10 @@
       "value": {
         "color": "#0512460f",
         "type": "dropShadow",
-        "x": 0,
-        "y": 2,
-        "blur": 12,
-        "spread": 0
+        "x": "0",
+        "y": "2",
+        "blur": "12",
+        "spread": "0"
       },
       "type": "boxShadow"
     },
@@ -669,10 +669,10 @@
       "value": {
         "color": "#0208201f",
         "type": "dropShadow",
-        "x": 0,
-        "y": 2,
-        "blur": 12,
-        "spread": 0
+        "x": "0",
+        "y": "2",
+        "blur": "12",
+        "spread": "0"
       },
       "type": "boxShadow"
     }

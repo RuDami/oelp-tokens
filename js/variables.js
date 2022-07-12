@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 12 Jul 2022 10:44:26 GMT
+ * Generated on Tue, 12 Jul 2022 12:18:11 GMT
  */
 
 export const Gray0 = "#fcfcfc";
@@ -70,11 +70,11 @@ export const LetterSpacing0 = 0;
 export const LetterSpacing04 = "0.4px";
 export const LetterSpacing038 = "0.38px";
 export const LetterSpacing032 = "0.32px";
-export const LetterSpacing032 = "-0.32px";
-export const LetterSpacing028 = "-0.28px";
-export const LetterSpacing024 = "-0.24px";
-export const LetterSpacing016 = "-0.16px";
-export const LetterSpacing008 = "-0.08px";
+export const LetterSpacingM032 = "-0.32px";
+export const LetterSpacingM028 = "-0.28px";
+export const LetterSpacingM024 = "-0.24px";
+export const LetterSpacingM016 = "-0.16px";
+export const LetterSpacingM008 = "-0.08px";
 export const ParagraphSpacing0 = 0;
 export const TextCaseNone = "none";
 export const TextDecorationNone = "none";

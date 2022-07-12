@@ -1,0 +1,54 @@
+{
+  "Default": {
+    "x": {
+      "value": 2,
+      "type": "x"
+    },
+    "y": {
+      "value": 2,
+      "type": "y"
+    },
+    "blur": {
+      "value": 12,
+      "type": "blur"
+    },
+    "spread": {
+      "value": 0,
+      "type": "spread"
+    },
+    "color": {
+      "value": "#0512460f",
+      "type": "color"
+    },
+    "type": {
+      "value": "dropShadow",
+      "type": "type"
+    }
+  },
+  "Active": {
+    "x": {
+      "value": 2,
+      "type": "x"
+    },
+    "y": {
+      "value": 2,
+      "type": "y"
+    },
+    "blur": {
+      "value": 12,
+      "type": "blur"
+    },
+    "spread": {
+      "value": 0,
+      "type": "spread"
+    },
+    "color": {
+      "value": "#0208201f",
+      "type": "color"
+    },
+    "type": {
+      "value": "dropShadow",
+      "type": "type"
+    }
+  }
+}

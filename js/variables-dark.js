@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 12 Jul 2022 12:59:31 GMT
+ * Generated on Wed, 13 Jul 2022 07:45:09 GMT
  */
 
 export const InteractiveLight = "#e6eeff";

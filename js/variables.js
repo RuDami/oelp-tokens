@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Jul 2022 15:08:44 GMT
+ * Generated on Wed, 13 Jul 2022 15:25:49 GMT
  */
 
 export const Gray0 = "#fcfcfc";
@@ -219,14 +219,14 @@ export const ButtonDefaultLetterSpacing = "-0.28px";
 export const ButtonDefaultParagraphSpacing = 0;
 export const ButtonDefaultTextCase = "none";
 export const ButtonDefaultTextDecoration = "none";
-export const ButtonLightFontFamily = "Inter";
-export const ButtonLightFontWeight = "Regular";
-export const ButtonLightLineHeight = 20;
-export const ButtonLightFontSize = 16;
-export const ButtonLightLetterSpacing = "-0.28px";
-export const ButtonLightParagraphSpacing = 0;
-export const ButtonLightTextCase = "none";
-export const ButtonLightTextDecoration = "none";
+export const ButtonLiteFontFamily = "Inter";
+export const ButtonLiteFontWeight = "Regular";
+export const ButtonLiteLineHeight = 20;
+export const ButtonLiteFontSize = 16;
+export const ButtonLiteLetterSpacing = "-0.28px";
+export const ButtonLiteParagraphSpacing = 0;
+export const ButtonLiteTextCase = "none";
+export const ButtonLiteTextDecoration = "none";
 export const TextX4Weight1FontFamily = "Inter";
 export const TextX4Weight1FontWeight = "Semi Bold";
 export const TextX4Weight1LineHeight = 20;

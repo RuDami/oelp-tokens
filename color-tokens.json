@@ -18,6 +18,16 @@
         "type": "color"
       }
     },
+    "gray-unchangeable": {
+      "0": {
+        "value": "#fcfcfc",
+        "type": "color"
+      },
+      "900": {
+        "value": "#06080e",
+        "type": "color"
+      }
+    },
     "validation": {
       "success": {
         "main": {

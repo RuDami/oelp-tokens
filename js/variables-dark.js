@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Jul 2022 07:45:09 GMT
+ * Generated on Wed, 13 Jul 2022 13:18:57 GMT
  */
 
 export const InteractiveLight = "#e6eeff";
@@ -32,10 +32,19 @@ export const MacroRegionDarkGreen = "#45a040";
 export const MacroRegionDarkGreenAlpha = "#45a04099";
 export const MacroRegionBlue = "#4ec6df";
 export const MacroRegionBlueAlpha = "#4ec6df99";
+export const MacroAegionOutlinePink = "#f986a5";
+export const MacroAegionOutlineOrange = "#f6ce9e";
+export const MacroAegionOutlineDarkGreen = "#54ed76";
+export const MacroAegionOutlineBlue = "#b8ebf5";
 export const MacroRegionOutlinePink = "#f986a5";
 export const MacroRegionOutlineOrange = "#f6ce9e";
-export const MacroRegionOutlineDarkGreen = "#54ed76";
+export const MacroRegionOutlineDarkAreen = "#54ed76";
 export const MacroRegionOutlineBlue = "#b8ebf5";
+export const ScorePerfectly = "#45f06b";
+export const ScoreGood = "#b9f045";
+export const ScoreSatisfactory = "#f0ca45";
+export const ScoreBadly = "#f08345";
+export const ScoreVeryBad = "#f04545";
 export const DefaultX = 2;
 export const DefaultY = 2;
 export const DefaultBlur = 12;

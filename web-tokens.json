@@ -361,7 +361,7 @@
         },
         "type": "typography"
       },
-      "light": {
+      "lite": {
         "value": {
           "fontFamily": "{fontFamilies.main}",
           "fontWeight": "{fontWeights.regular}",

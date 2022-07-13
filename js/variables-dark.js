@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Jul 2022 15:08:02 GMT
+ * Generated on Wed, 13 Jul 2022 15:08:46 GMT
  */
 
 export const InteractiveLight = "#e6eeff";
@@ -34,10 +34,6 @@ export const MacroRegionDarkGreen = "#45a040";
 export const MacroRegionDarkGreenAlpha = "#45a04099";
 export const MacroRegionBlue = "#4ec6df";
 export const MacroRegionBlueAlpha = "#4ec6df99";
-export const MacroAegionOutlinePink = "#f986a5";
-export const MacroAegionOutlineOrange = "#f6ce9e";
-export const MacroAegionOutlineDarkGreen = "#54ed76";
-export const MacroAegionOutlineBlue = "#b8ebf5";
 export const MacroRegionOutlinePink = "#f986a5";
 export const MacroRegionOutlineOrange = "#f6ce9e";
 export const MacroRegionOutlineDarkAreen = "#54ed76";

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Jul 2022 13:18:55 GMT
+ * Generated on Wed, 13 Jul 2022 15:07:59 GMT
  */
 
 export const Gray0 = "#fcfcfc";
@@ -22,6 +22,8 @@ export const InteractiveLight = "#e6eeff";
 export const InteractiveLightHover = "#b4cdff";
 export const InteractiveDefault = "#689aff";
 export const InteractiveHover = "#457ef0";
+export const GrayUnchangeable0 = "#fcfcfc";
+export const GrayUnchangeable900 = "#06080e";
 export const ValidationSuccessMain = "#45f067";
 export const ValidationSuccessBg = "#e7faeb";
 export const ValidationSuccessContent = "#0d6b23";

@@ -140,24 +140,6 @@
         "type": "color"
       }
     },
-    "macro-aegion-outline": {
-      "pink": {
-        "value": "#f986a5",
-        "type": "color"
-      },
-      "orange": {
-        "value": "#f6ce9e",
-        "type": "color"
-      },
-      "dark-green": {
-        "value": "#54ed76",
-        "type": "color"
-      },
-      "blue": {
-        "value": "#b8ebf5",
-        "type": "color"
-      }
-    },
     "macro-region-outline": {
       "pink": {
         "value": "#f986a5",

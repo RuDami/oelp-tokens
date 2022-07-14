@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 14 Jul 2022 12:16:11 GMT
+ * Generated on Thu, 14 Jul 2022 13:07:43 GMT
  */
 
 export const Gray0 = "#fcfcfc";
@@ -395,15 +395,15 @@ export const CaptionX275Weight3LetterSpacing = 0;
 export const CaptionX275Weight3ParagraphSpacing = 0;
 export const CaptionX275Weight3TextCase = "none";
 export const CaptionX275Weight3TextDecoration = "none";
-export const DefaultColor = "#0512460f";
-export const DefaultType = "dropShadow";
-export const DefaultX = 0;
-export const DefaultY = 2;
-export const DefaultBlur = 12;
-export const DefaultSpread = 0;
-export const ActiveColor = "#0208201f";
-export const ActiveType = "dropShadow";
-export const ActiveX = 0;
-export const ActiveY = 2;
-export const ActiveBlur = 12;
-export const ActiveSpread = 0;
+export const ShadowDefaultColor = "#0512460f";
+export const ShadowDefaultType = "dropShadow";
+export const ShadowDefaultX = 0;
+export const ShadowDefaultY = 2;
+export const ShadowDefaultBlur = 12;
+export const ShadowDefaultSpread = 0;
+export const ShadowActiveColor = "#0208201f";
+export const ShadowActiveType = "dropShadow";
+export const ShadowActiveX = 0;
+export const ShadowActiveY = 2;
+export const ShadowActiveBlur = 12;
+export const ShadowActiveSpread = 0;

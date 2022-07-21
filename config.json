@@ -6,7 +6,10 @@
       "buildPath": "./css/",
       "files": [{
         "destination": "variables.scss",
-        "format": "scss/variables"
+        "format": "scss/variables",
+        "options": {
+          "outputReferences": true
+        }
       }]
     },
     "js": {
@@ -14,7 +17,10 @@
       "buildPath": "./js/",
       "files": [{
         "destination": "variables.js",
-        "format": "javascript/es6"
+        "format": "javascript/es6",
+        "options": {
+          "outputReferences": true
+        }
       }]
     }
   }

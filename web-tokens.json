@@ -133,7 +133,8 @@
       },
       "semiBold": {
         "value": "Semi Bold",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "description": "600"
       },
       "medium": {
         "value": "Medium",

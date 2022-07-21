@@ -40,7 +40,7 @@
         "type": "fontSizes"
       },
       "basic": {
-        "value": "4",
+        "value": "4px",
         "type": "fontSizes"
       }
     },
@@ -361,7 +361,7 @@
         },
         "type": "typography"
       },
-      "light": {
+      "lite": {
         "value": {
           "fontFamily": "{fontFamilies.main}",
           "fontWeight": "{fontWeights.regular}",
@@ -654,7 +654,7 @@
         "type": "typography"
       }
     },
-    "Default": {
+    "shadow-default": {
       "value": {
         "color": "#0512460f",
         "type": "dropShadow",
@@ -665,7 +665,7 @@
       },
       "type": "boxShadow"
     },
-    "Active": {
+    "shadow-active": {
       "value": {
         "color": "#0208201f",
         "type": "dropShadow",

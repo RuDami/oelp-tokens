@@ -5,7 +5,7 @@
         "value": "#e6eeff",
         "type": "color"
       },
-      "lightHover": {
+      "light-hover": {
         "value": "#b4cdff",
         "type": "color"
       },
@@ -15,6 +15,16 @@
       },
       "hover": {
         "value": "#457ef0",
+        "type": "color"
+      }
+    },
+    "gray-unchangeable": {
+      "0": {
+        "value": "#fcfcfc",
+        "type": "color"
+      },
+      "900": {
+        "value": "#06080e",
         "type": "color"
       }
     },
@@ -62,12 +72,12 @@
         }
       }
     },
-    "heatStatus": {
+    "heat-status": {
       "blue": {
         "value": "#94aaaf",
         "type": "color"
       },
-      "blueAlpha": {
+      "blue-alpha": {
         "value": "#b4ceff70",
         "type": "color"
       },
@@ -75,7 +85,7 @@
         "value": "#45f067",
         "type": "color"
       },
-      "greenAlpha": {
+      "green-alpha": {
         "value": "#45f06770",
         "type": "color"
       },
@@ -83,7 +93,7 @@
         "value": "#f0bc03",
         "type": "color"
       },
-      "yellowAlpha": {
+      "yellow-alpha": {
         "value": "#f0bc0370",
         "type": "color"
       },
@@ -91,17 +101,17 @@
         "value": "#f04b45",
         "type": "color"
       },
-      "redAlpha": {
+      "red-alpha": {
         "value": "#f04b4570",
         "type": "color"
       }
     },
-    "macroRegion": {
+    "macro-region": {
       "pink": {
         "value": "#ee2d62",
         "type": "color"
       },
-      "pinkAlpha": {
+      "pink-alpha": {
         "value": "#ee2d6299",
         "type": "color"
       },
@@ -109,15 +119,15 @@
         "value": "#f8931f",
         "type": "color"
       },
-      "orangeAlpha": {
+      "orange-alpha": {
         "value": "#f8931f99",
         "type": "color"
       },
-      "darkGreen": {
+      "dark-green": {
         "value": "#45a040",
         "type": "color"
       },
-      "darkGreenAlpha": {
+      "dark-green-alpha": {
         "value": "#45a04099",
         "type": "color"
       },
@@ -125,12 +135,12 @@
         "value": "#4ec6df",
         "type": "color"
       },
-      "blueAlpha": {
+      "blue-alpha": {
         "value": "#4ec6df99",
         "type": "color"
       }
     },
-    "macroRegionOutline": {
+    "macro-region-outline": {
       "pink": {
         "value": "#f986a5",
         "type": "color"
@@ -139,12 +149,34 @@
         "value": "#f6ce9e",
         "type": "color"
       },
-      "darkGreen": {
+      "dark-areen": {
         "value": "#54ed76",
         "type": "color"
       },
       "blue": {
         "value": "#b8ebf5",
+        "type": "color"
+      }
+    },
+    "score": {
+      "perfectly": {
+        "value": "#45f06b",
+        "type": "color"
+      },
+      "good": {
+        "value": "#b9f045",
+        "type": "color"
+      },
+      "satisfactory": {
+        "value": "#f0ca45",
+        "type": "color"
+      },
+      "badly": {
+        "value": "#f08345",
+        "type": "color"
+      },
+      "very-bad": {
+        "value": "#f04545",
         "type": "color"
       }
     }
@@ -214,5 +246,6 @@
         "type": "color"
       }
     }
-  }
+  },
+  "$themes": []
 }

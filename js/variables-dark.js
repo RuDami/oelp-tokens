@@ -1,12 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Tue, 12 Jul 2022 12:59:31 GMT
+ * Generated on Thu, 14 Jul 2022 13:07:46 GMT
  */
 
 export const InteractiveLight = "#e6eeff";
 export const InteractiveLightHover = "#b4cdff";
 export const InteractiveDefault = "#689aff";
 export const InteractiveHover = "#457ef0";
+export const GrayUnchangeable0 = "#fcfcfc";
+export const GrayUnchangeable900 = "#06080e";
 export const ValidationSuccessMain = "#45f067";
 export const ValidationSuccessBg = "#e7faeb";
 export const ValidationSuccessContent = "#0d6b23";
@@ -34,8 +36,13 @@ export const MacroRegionBlue = "#4ec6df";
 export const MacroRegionBlueAlpha = "#4ec6df99";
 export const MacroRegionOutlinePink = "#f986a5";
 export const MacroRegionOutlineOrange = "#f6ce9e";
-export const MacroRegionOutlineDarkGreen = "#54ed76";
+export const MacroRegionOutlineDarkAreen = "#54ed76";
 export const MacroRegionOutlineBlue = "#b8ebf5";
+export const ScorePerfectly = "#45f06b";
+export const ScoreGood = "#b9f045";
+export const ScoreSatisfactory = "#f0ca45";
+export const ScoreBadly = "#f08345";
+export const ScoreVeryBad = "#f04545";
 export const DefaultX = 2;
 export const DefaultY = 2;
 export const DefaultBlur = 12;

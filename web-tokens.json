@@ -125,11 +125,13 @@
     "fontWeights": {
       "extraBold": {
         "value": "Extra Bold",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "description": "800"
       },
       "bold": {
         "value": "Bold",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "description": "700"
       },
       "semiBold": {
         "value": "Semi Bold",
@@ -138,15 +140,18 @@
       },
       "medium": {
         "value": "Medium",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "description": "500"
       },
       "regular": {
         "value": "Regular",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "description": "400"
       },
       "light": {
         "value": "Light",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "description": "300"
       }
     },
     "title": {

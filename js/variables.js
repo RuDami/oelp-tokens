@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 21 Jul 2022 10:40:54 GMT
+ * Generated on Thu, 21 Jul 2022 13:17:54 GMT
  */
 
 export const Gray0 = "#fcfcfc";
@@ -14,6 +14,7 @@ export const Gray600 = "#4e5053";
 export const Gray700 = "#1e2025";
 export const Gray800 = "#0d121c";
 export const Gray900 = "#06080e";
+export const SurfaceDarkBlackout = "#000000d6";
 export const SurfaceBlackout = "#00000066";
 export const SurfaceBack = "#e3e5e8";
 export const SurfaceMid = "#f2f3f5";

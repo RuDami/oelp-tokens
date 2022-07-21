@@ -229,8 +229,12 @@
       }
     },
     "surface": {
+      "dark-blackout": {
+        "value": "rgba(0,0,0,0.84)",
+        "type": "color"
+      },
       "blackout": {
-        "value": "#00000066",
+        "value": "rgba(0,0,0,0.4)",
         "type": "color"
       },
       "back": {

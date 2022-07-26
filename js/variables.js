@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 26 Jul 2022 08:59:30 GMT
+ * Generated on Tue, 26 Jul 2022 09:00:06 GMT
  */
 
 export const Gray0 = "#fcfcfc";

@@ -13,7 +13,6 @@ module.exports = {
     }
   },
 
-
   source: ['tokens/**/*.json'],
   platforms: {
     js: {

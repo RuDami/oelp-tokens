@@ -662,45 +662,45 @@
     },
     "shadow-default": {
       "value": {
-        "color": "#0512460f",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "2",
-        "blur": "12",
-        "spread": "0"
-      },
-      "type": "boxShadow"
-    },
-    "shadow-active": {
-      "value": {
-        "color": "#0208201f",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "2",
-        "blur": "12",
-        "spread": "0"
-      },
-      "type": "boxShadow"
-    }
-  },
-  "dark": {
-    "Default": {
-      "value": {
-        "x": "2",
-        "y": "2",
-        "blur": "12",
-        "spread": "0",
+        "x": "0px",
+        "y": "2px",
+        "blur": "12px",
+        "spread": "0px",
         "color": "#0512460f",
         "type": "dropShadow"
       },
       "type": "boxShadow"
     },
-    "Active": {
+    "shadow-active": {
       "value": {
-        "x": "2",
-        "y": "2",
-        "blur": "12",
-        "spread": "0",
+        "x": "0px",
+        "y": "2px",
+        "blur": "12px",
+        "spread": "0px",
+        "color": "#0208201f",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  },
+  "dark": {
+    "shadow-default": {
+      "value": {
+        "x": "2px",
+        "y": "2px",
+        "blur": "12px",
+        "spread": "0px",
+        "color": "#0512460f",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "shadow-active": {
+      "value": {
+        "x": "2px",
+        "y": "2px",
+        "blur": "12px",
+        "spread": "0px",
         "color": "#0208201f",
         "type": "dropShadow"
       },

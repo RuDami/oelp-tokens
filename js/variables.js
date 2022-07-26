@@ -1,8 +1,24 @@
 /**
  * Do not edit directly
- * Generated on Tue, 26 Jul 2022 08:29:06 GMT
+ * Generated on Tue, 26 Jul 2022 08:36:05 GMT
  */
 
+export const Gray0 = "#fcfcfc";
+export const Gray50 = "#e9e9e9";
+export const Gray100 = "#c8c8c8";
+export const Gray200 = "#b0b0b1";
+export const Gray300 = "#979899";
+export const Gray400 = "#74797d";
+export const Gray500 = "#67686b";
+export const Gray600 = "#4e5053";
+export const Gray700 = "#1e2025";
+export const Gray800 = "#0d121c";
+export const Gray900 = "#06080e";
+export const SurfaceDarkBlackout = "#000000d6";
+export const SurfaceBlackout = "#00000066";
+export const SurfaceBack = "#e3e5e8";
+export const SurfaceMid = "#f2f3f5";
+export const SurfaceFront = "#fafafa";
 export const InteractiveLight = "#e6eeff";
 export const InteractiveLightHover = "#b4cdff";
 export const InteractiveDefault = "#689aff";
@@ -43,34 +59,6 @@ export const ScoreGood = "#b9f045";
 export const ScoreSatisfactory = "#f0ca45";
 export const ScoreBadly = "#f08345";
 export const ScoreVeryBad = "#f04545";
-export const DefaultX = 2;
-export const DefaultY = 2;
-export const DefaultBlur = 12;
-export const DefaultSpread = 0;
-export const DefaultColor = "#0512460f";
-export const DefaultType = "dropShadow";
-export const ActiveX = 2;
-export const ActiveY = 2;
-export const ActiveBlur = 12;
-export const ActiveSpread = 0;
-export const ActiveColor = "#0208201f";
-export const ActiveType = "dropShadow";
-export const Gray0 = "#fcfcfc";
-export const Gray50 = "#e9e9e9";
-export const Gray100 = "#c8c8c8";
-export const Gray200 = "#b0b0b1";
-export const Gray300 = "#979899";
-export const Gray400 = "#74797d";
-export const Gray500 = "#67686b";
-export const Gray600 = "#4e5053";
-export const Gray700 = "#1e2025";
-export const Gray800 = "#0d121c";
-export const Gray900 = "#06080e";
-export const SurfaceDarkBlackout = "#000000d6";
-export const SurfaceBlackout = "#00000066";
-export const SurfaceBack = "#e3e5e8";
-export const SurfaceMid = "#f2f3f5";
-export const SurfaceFront = "#fafafa";
 export const FontFamiliesMain = "Inter";
 export const FontSizeX8 = "4px * 8";
 export const FontSizeX6 = "4px * 6";

@@ -1,10 +1,6 @@
 /**
  * Do not edit directly
-<<<<<<< HEAD
  * Generated on Tue, 26 Jul 2022 08:29:13 GMT
-=======
- * Generated on Mon, 25 Jul 2022 17:30:53 GMT
->>>>>>> 451f68be6a21727201770561836cc97be9d4901b
  */
 
 export const InteractiveLight = "#e6eeff";

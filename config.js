@@ -6,7 +6,12 @@ module.exports = {
           if (!token.name.indexOf('f')) {
             return `$${token.name}: ${token.description};`
           }
-          return `$${token.name}: $font-weights-${token.value.toLowerCase().replace(' ', '-')};`
+          const fontWeight = dictionary
+            .allTokens.find(item => {
+              return item.type === 'fontWeights' && item.value === token.value
+            }).description
+
+          return `$${token.name}: ${fontWeight};`
         }
         return `$${token.name}: ${token.value};`
       }).join(`\n`)

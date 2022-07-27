@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 26 Jul 2022 21:10:51 GMT
+ * Generated on Wed, 27 Jul 2022 09:36:27 GMT
  */
 
 export const InteractiveLight = "#e6eeff";
@@ -36,7 +36,7 @@ export const MacroRegionBlue = "#4ec6df";
 export const MacroRegionBlueAlpha = "#4ec6df99";
 export const MacroRegionOutlinePink = "#f986a5";
 export const MacroRegionOutlineOrange = "#f6ce9e";
-export const MacroRegionOutlineDarkAreen = "#54ed76";
+export const MacroRegionOutlineDarkGreen = "#54ed76";
 export const MacroRegionOutlineBlue = "#b8ebf5";
 export const ScorePerfectly = "#45f06b";
 export const ScoreGood = "#b9f045";

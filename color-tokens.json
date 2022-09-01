@@ -138,6 +138,10 @@
       "blue-alpha": {
         "value": "#4ec6df99",
         "type": "color"
+      },
+      "text-outline": {
+        "value": "#eeeeee",
+        "type": "color"
       }
     },
     "macro-region-outline": {
@@ -251,5 +255,11 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "main",
+      "light"
+    ]
+  }
 }

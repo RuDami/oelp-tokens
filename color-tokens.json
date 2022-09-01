@@ -251,8 +251,8 @@
       }
     },
     "macro-region": {
-      "text-outline": {
-        "value": "#EEEEEE",
+      "marker-text-outline": {
+        "value": "#eeeeee",
         "type": "color"
       }
     }

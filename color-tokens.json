@@ -138,10 +138,6 @@
       "blue-alpha": {
         "value": "#4ec6df99",
         "type": "color"
-      },
-      "text-outline": {
-        "value": "#eeeeee",
-        "type": "color"
       }
     },
     "macro-region-outline": {
@@ -251,6 +247,12 @@
       },
       "front": {
         "value": "#fafafa",
+        "type": "color"
+      }
+    },
+    "macro-region": {
+      "text-outline": {
+        "value": "#EEEEEE",
         "type": "color"
       }
     }

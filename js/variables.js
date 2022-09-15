@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 27 Jul 2022 09:36:25 GMT
+ * Generated on Thu, 15 Sep 2022 10:46:03 GMT
  */
 
 export const Gray0 = "#fcfcfc";
@@ -19,6 +19,15 @@ export const SurfaceBlackout = "#00000066";
 export const SurfaceBack = "#e3e5e8";
 export const SurfaceMid = "#f2f3f5";
 export const SurfaceFront = "#fafafa";
+export const MacroRegionMarkerTextOutline = "#eeeeee";
+export const MacroRegionPink = "#ee2d62";
+export const MacroRegionPinkAlpha = "#ee2d6299";
+export const MacroRegionOrange = "#f8931f";
+export const MacroRegionOrangeAlpha = "#f8931f99";
+export const MacroRegionDarkGreen = "#45a040";
+export const MacroRegionDarkGreenAlpha = "#45a04099";
+export const MacroRegionBlue = "#4ec6df";
+export const MacroRegionBlueAlpha = "#4ec6df99";
 export const InteractiveLight = "#e6eeff";
 export const InteractiveLightHover = "#b4cdff";
 export const InteractiveDefault = "#689aff";
@@ -42,14 +51,6 @@ export const HeatStatusYellow = "#f0bc03";
 export const HeatStatusYellowAlpha = "#f0bc0370";
 export const HeatStatusRed = "#f04b45";
 export const HeatStatusRedAlpha = "#f04b4570";
-export const MacroRegionPink = "#ee2d62";
-export const MacroRegionPinkAlpha = "#ee2d6299";
-export const MacroRegionOrange = "#f8931f";
-export const MacroRegionOrangeAlpha = "#f8931f99";
-export const MacroRegionDarkGreen = "#45a040";
-export const MacroRegionDarkGreenAlpha = "#45a04099";
-export const MacroRegionBlue = "#4ec6df";
-export const MacroRegionBlueAlpha = "#4ec6df99";
 export const MacroRegionOutlinePink = "#f986a5";
 export const MacroRegionOutlineOrange = "#f6ce9e";
 export const MacroRegionOutlineDarkGreen = "#54ed76";

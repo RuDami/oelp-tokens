@@ -717,14 +717,14 @@
       "2rem": {
         "value": "{rootFontSize.default} * 2",
         "type": "fontSizes",
-        "description": "2"
+        "description": "2rem"
       }
     },
     "remLineHeight": {
       "2,5rem": {
         "value": "{rootFontSize.default} * 2.5",
         "type": "lineHeights",
-        "description": "2,5"
+        "description": "2.5rem"
       }
     }
   },

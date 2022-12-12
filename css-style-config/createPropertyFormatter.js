@@ -141,7 +141,7 @@ function createPropertyFormatter({
         value = fontWeight
       }
     }
-    if (prop.description.includes('rem')) {
+    if (prop.description && typeof prop.description === 'string' && prop.description.includes('rem')) {
       value = prop.description
     }
 

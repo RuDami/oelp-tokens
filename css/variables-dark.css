@@ -1,9 +1,23 @@
 /**
  * Do not edit directly
- * Generated on Mon, 12 Dec 2022 13:12:04 GMT
+ * Generated on Mon, 12 Dec 2022 16:14:04 GMT
  */
 
 [data-theme=dark] {
+  --breakpoint-desktop-ultra-large: 2048px;
+  --breakpoint-desktop-large: 1921px;
+  --breakpoint-desktop-middle: 1600px;
+  --breakpoint-desktop-small: 1367px;
+  --breakpoint-tablet-landscape: 1200px;
+  --breakpoint-tablet-portrait: 960px;
+  --breakpoint-mobile-landscape: 640px;
+  --breakpoint-mobile-portrait: 500px;
+  --root-font-size-desktop-ultra-large: 16px;
+  --root-font-size-desktop-large: 14px;
+  --root-font-size-desktop-middle: 14px;
+  --root-font-size-desktop-small: 14px;
+  --root-font-size-tablet: 14px;
+  --root-font-size-mobile: 12px;
   --shadow-active-type: dropShadow;
   --shadow-active-color: #0208201f;
   --shadow-active-spread: 0px;
@@ -56,4 +70,5 @@
   --interactive-default: #689aff;
   --interactive-light-hover: #b4cdff;
   --interactive-light: #e6eeff;
+  --root-font-size-current: var(--root-font-size-desktop-large);
 }

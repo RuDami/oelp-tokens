@@ -310,6 +310,19 @@
           "textDecoration": "{textDecoration.none}"
         },
         "type": "typography"
+      },
+      "test-title": {
+        "value": {
+          "fontFamily": "{fontFamilies.main}",
+          "fontWeight": "{fontWeights.extraBold}",
+          "lineHeight": "{remLineHeight.2,5rem}",
+          "fontSize": "{remFontSize.2rem}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
       }
     },
     "subheader": {
@@ -681,6 +694,38 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "rootFontSize": {
+      "small": {
+        "value": "12px",
+        "type": "fontSizes"
+      },
+      "middle": {
+        "value": "14px",
+        "type": "fontSizes"
+      },
+      "large": {
+        "value": "16px",
+        "type": "fontSizes"
+      },
+      "default": {
+        "value": "{rootFontSize.large}",
+        "type": "fontSizes"
+      }
+    },
+    "remFontSize": {
+      "2rem": {
+        "value": "{rootFontSize.default} * 2",
+        "type": "fontSizes",
+        "description": "2"
+      }
+    },
+    "remLineHeight": {
+      "2,5rem": {
+        "value": "{rootFontSize.default} * 2.5",
+        "type": "lineHeights",
+        "description": "2,5"
+      }
     }
   },
   "dark": {
@@ -707,5 +752,11 @@
       "type": "boxShadow"
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "light",
+      "dark"
+    ]
+  }
 }

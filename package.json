@@ -9,7 +9,7 @@
     "build-tokens-dictionary-web-light": "npx token-transformer web-tokens.json  tokens/light/web-tokens.json main,light --expandTypography=true --expandShadow=true  --resolveReferences='math'",
     "build-tokens-dictionary-web-dark": "npx token-transformer web-tokens.json  tokens/dark/web-tokens.json main,dark --expandTypography=true --expandShadow=true  --resolveReferences='math'",
     "build-dictionary-light": "style-dictionary build --config ./config.js",
-    "build-dictionary-dark": "style-dictionary build --config ./config-dark.json",
+    "build-dictionary-dark": "style-dictionary build --config ./config-dark.js",
     "build-light": "npm run build-tokens-dictionary-web-light && npm run build-tokens-dictionary-colors-light && npm run build-dictionary-light ",
     "build-dark": "npm run build-tokens-dictionary-web-dark && npm run build-tokens-dictionary-colors-dark && npm run build-dictionary-dark",
     "build": "npm run build-light && npm run build-dark"

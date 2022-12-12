@@ -1,9 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Mon, 12 Dec 2022 12:55:22 GMT
+ * Generated on Mon, 12 Dec 2022 12:58:57 GMT
  */
 
 :root {
+  --root-font-size-large: 16px;
+  --root-font-size-middle: 14px;
+  --root-font-size-small: 12px;
   --shadow-active-type: dropShadow;
   --shadow-active-color: #0208201f;
   --shadow-active-spread: 0px;
@@ -93,6 +96,7 @@
   --gray-100: #c8c8c8;
   --gray-50: #e9e9e9;
   --gray-0: #fcfcfc;
+  --root-font-size-default: var(--root-font-size-large);
   --caption-x2-75-weight-3-text-decoration: var(--text-decoration-none);
   --caption-x2-75-weight-3-text-case: var(--text-case-none);
   --caption-x2-75-weight-3-paragraph-spacing: 0;
@@ -249,6 +253,12 @@
   --subheader-weight-1-letter-spacing: var(--letter-spacing-m0-16);
   --subheader-weight-1-font-weight: var(--font-weights-bold);
   --subheader-weight-1-font-family: var(--font-families-main);
+  --title-test-title-text-case: var(--text-case-none);
+  --title-test-title-text-decoration: var(--text-decoration-none);
+  --title-test-title-paragraph-spacing: 0;
+  --title-test-title-letter-spacing: 0;
+  --title-test-title-font-weight: var(--font-weights-extra-bold);
+  --title-test-title-font-family: var(--font-families-main);
   --title-h4-weight-3-text-decoration: var(--text-decoration-none);
   --title-h4-weight-3-text-case: var(--text-case-none);
   --title-h4-weight-3-paragraph-spacing: 0;
@@ -334,6 +344,8 @@
   --font-size-x5: calc(var(--font-size-basic) * 5);
   --font-size-x6: calc(var(--font-size-basic) * 6);
   --font-size-x8: calc(var(--font-size-basic) * 8);
+  --rem-line-height-2-5rem: calc(var(--root-font-size-default) * 2.5);
+  --rem-font-size-2rem: calc(var(--root-font-size-default) * 2);
   --caption-x2-75-weight-3-font-size: var(--font-size-x2-75);
   --caption-x2-75-weight-3-line-height: var(--line-heights-x4);
   --caption-x2-75-weight-2-font-size: var(--font-size-x2-75);
@@ -410,4 +422,6 @@
   --title-h1-weight-2-line-height: var(--line-heights-x10);
   --title-h1-weight-1-font-size: var(--font-size-x8);
   --title-h1-weight-1-line-height: var(--line-heights-x10);
+  --title-test-title-font-size: var(--rem-font-size-2rem);
+  --title-test-title-line-height: var(--rem-line-height-2-5rem);
 }

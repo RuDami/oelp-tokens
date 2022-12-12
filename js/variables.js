@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Sep 2022 10:46:03 GMT
+ * Generated on Mon, 12 Dec 2022 11:27:30 GMT
  */
 
 export const Gray0 = "#fcfcfc";
@@ -189,6 +189,14 @@ export const TitleH4Weight3LetterSpacing = "-0.32px";
 export const TitleH4Weight3ParagraphSpacing = 0;
 export const TitleH4Weight3TextCase = "none";
 export const TitleH4Weight3TextDecoration = "none";
+export const TitleTestTitleFontFamily = "Inter";
+export const TitleTestTitleFontWeight = "Extra Bold";
+export const TitleTestTitleLineHeight = "16px * 2.5";
+export const TitleTestTitleFontSize = "16px * 2";
+export const TitleTestTitleLetterSpacing = 0;
+export const TitleTestTitleParagraphSpacing = 0;
+export const TitleTestTitleTextDecoration = "none";
+export const TitleTestTitleTextCase = "none";
 export const SubheaderWeight1FontFamily = "Inter";
 export const SubheaderWeight1FontWeight = "Bold";
 export const SubheaderWeight1LineHeight = "4px * 4";
@@ -409,3 +417,9 @@ export const ShadowActiveBlur = "12px";
 export const ShadowActiveSpread = "0px";
 export const ShadowActiveColor = "#0208201f";
 export const ShadowActiveType = "dropShadow";
+export const RootFontSizeSmall = "12px";
+export const RootFontSizeMiddle = "14px";
+export const RootFontSizeLarge = "16px";
+export const RootFontSizeDefault = "16px";
+export const RemFontSize2rem = "16px * 2";
+export const RemLineHeight25rem = "16px * 2.5";

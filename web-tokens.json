@@ -480,8 +480,8 @@
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.medium}",
-            "lineHeight": "{lineHeights.x5}",
-            "fontSize": "{fontSize.x4}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
             "letterSpacing": "{letterSpacing.m0,28}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",
@@ -493,8 +493,8 @@
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeights.x5}",
-            "fontSize": "{fontSize.x4}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
             "letterSpacing": "{letterSpacing.m0,28}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",

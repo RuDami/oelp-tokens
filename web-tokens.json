@@ -867,6 +867,17 @@
           "type": "dropShadow"
         },
         "type": "boxShadow"
+      },
+      "mobile": {
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "12px",
+          "spread": "0px",
+          "color": "#0512460f",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "shadow-active": {

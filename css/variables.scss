@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Tue, 13 Dec 2022 12:34:45 GMT
+// Generated on Tue, 13 Dec 2022 13:24:24 GMT
 
 $breakpoint-desktop-ultra-large: 2048px;
 $breakpoint-desktop-large: 1921px;
@@ -119,6 +119,12 @@ $font-size-x5: $font-size-basic * 5;
 $font-size-x6: $font-size-basic * 6;
 $font-size-x8: $font-size-basic * 8;
 $root-font-size-current: $root-font-size-desktop-large;
+$caption-mobile-x3-25-weight-3-text-decoration: $text-decoration-none;
+$caption-mobile-x3-25-weight-3-text-case: $text-case-none;
+$caption-mobile-x3-25-weight-3-paragraph-spacing: 0;
+$caption-mobile-x3-25-weight-3-letter-spacing: $letter-spacing-m0-08;
+$caption-mobile-x3-25-weight-3-font-weight: $font-weights-regular;
+$caption-mobile-x3-25-weight-3-font-family: $font-families-main;
 $caption-desktop-x2-75-weight-3-text-decoration: $text-decoration-none;
 $caption-desktop-x2-75-weight-3-text-case: $text-case-none;
 $caption-desktop-x2-75-weight-3-paragraph-spacing: 0;
@@ -359,6 +365,8 @@ $title-desktop-h1-weight-1-paragraph-spacing: 0;
 $title-desktop-h1-weight-1-letter-spacing: $letter-spacing-0-32;
 $title-desktop-h1-weight-1-font-weight: $font-weights-extra-bold;
 $title-desktop-h1-weight-1-font-family: $font-families-main;
+$caption-mobile-x3-25-weight-3-font-size: $font-size-x3-25;
+$caption-mobile-x3-25-weight-3-line-height: $line-heights-x4;
 $caption-desktop-x2-75-weight-3-font-size: $font-size-x2-75;
 $caption-desktop-x2-75-weight-3-line-height: $line-heights-x4;
 $caption-desktop-x2-75-weight-2-font-size: $font-size-x2-75;

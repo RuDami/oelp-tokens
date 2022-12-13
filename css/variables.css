@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 13 Dec 2022 15:36:31 GMT
+ * Generated on Tue, 13 Dec 2022 15:53:23 GMT
  */
 
 :root {
@@ -307,6 +307,12 @@
   --subheader-desktop-weight-1-letter-spacing: var(--letter-spacing-m0-16);
   --subheader-desktop-weight-1-font-weight: var(--font-weights-bold);
   --subheader-desktop-weight-1-font-family: var(--font-families-main);
+  --title-mobile-h4-weight-1-text-decoration: var(--text-decoration-none);
+  --title-mobile-h4-weight-1-text-case: var(--text-case-none);
+  --title-mobile-h4-weight-1-paragraph-spacing: 0;
+  --title-mobile-h4-weight-1-letter-spacing: var(--letter-spacing-m0-32);
+  --title-mobile-h4-weight-1-font-weight: var(--font-weights-semi-bold);
+  --title-mobile-h4-weight-1-font-family: var(--font-families-main);
   --title-mobile-h2-weight-2-text-decoration: var(--text-decoration-none);
   --title-mobile-h2-weight-2-text-case: var(--text-case-none);
   --title-mobile-h2-weight-2-paragraph-spacing: 0;
@@ -451,6 +457,8 @@
   --subheader-desktop-weight-2-line-height: var(--line-heights-x4);
   --subheader-desktop-weight-1-font-size: var(--font-size-x3-5);
   --subheader-desktop-weight-1-line-height: var(--line-heights-x4);
+  --title-mobile-h4-weight-1-font-size: var(--font-size-x3);
+  --title-mobile-h4-weight-1-line-height: var(--line-heights-x4);
   --title-mobile-h2-weight-2-font-size: var(--font-size-x4);
   --title-mobile-h2-weight-2-line-height: var(--line-heights-x5);
   --title-mobile-h1-weight-2-font-size: var(--font-size-x5);

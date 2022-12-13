@@ -400,6 +400,19 @@
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography"
+        },
+        "h2-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x4}",
+            "letterSpacing": "{letterSpacing.0,38}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
         }
       }
     },

@@ -386,6 +386,21 @@
           },
           "type": "typography"
         }
+      },
+      "mobile": {
+        "h1-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x6}",
+            "fontSize": "{fontSize.x5}",
+            "letterSpacing": "{letterSpacing.0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
       }
     },
     "subheader": {

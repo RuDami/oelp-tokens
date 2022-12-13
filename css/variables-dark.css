@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 13 Dec 2022 08:54:59 GMT
+ * Generated on Tue, 13 Dec 2022 10:25:13 GMT
  */
 
 [data-theme=dark] {
@@ -12,12 +12,32 @@
   --breakpoint-tablet-portrait: 960px;
   --breakpoint-mobile-landscape: 640px;
   --breakpoint-mobile-portrait: 500px;
+  --font-weights-light: 300;
+  --font-weights-regular: 400;
+  --font-weights-medium: 500;
+  --font-weights-semi-bold: 600;
+  --font-weights-bold: 700;
+  --font-weights-extra-bold: 800;
+  --text-decoration-none: none;
+  --text-case-none: none;
+  --paragraph-spacing-0: 0;
+  --letter-spacing-m0-08: -0.08px;
+  --letter-spacing-m0-16: -0.16px;
+  --letter-spacing-m0-24: -0.24px;
+  --letter-spacing-m0-28: -0.28px;
+  --letter-spacing-m0-32: -0.32px;
+  --letter-spacing-0-32: 0.32px;
+  --letter-spacing-0-38: 0.38px;
+  --letter-spacing-0-4: 0.4px;
+  --letter-spacing-0: 0;
+  --font-size-basic: 4px;
   --root-font-size-desktop-ultra-large: 16px;
   --root-font-size-desktop-large: 14px;
   --root-font-size-desktop-middle: 14px;
   --root-font-size-desktop-small: 14px;
   --root-font-size-tablet: 14px;
   --root-font-size-mobile: 12px;
+  --font-families-main: Inter;
   --shadow-active-type: dropShadow;
   --shadow-active-color: #0208201f;
   --shadow-active-spread: 0px;
@@ -70,5 +90,18 @@
   --interactive-default: #689aff;
   --interactive-light-hover: #b4cdff;
   --interactive-light: #e6eeff;
+  --line-heights-x4: calc(var(--font-size-basic) * 4);
+  --line-heights-x5: calc(var(--font-size-basic) * 5);
+  --line-heights-x6: calc(var(--font-size-basic) * 6);
+  --line-heights-x7: calc(var(--font-size-basic) * 7);
+  --line-heights-x10: calc(var(--font-size-basic) * 10);
+  --font-size-x2-75: calc(var(--font-size-basic) * 2.75);
+  --font-size-x3: calc(var(--font-size-basic) * 3);
+  --font-size-x3-25: calc(var(--font-size-basic) * 3.25);
+  --font-size-x3-5: calc(var(--font-size-basic) * 3.5);
+  --font-size-x4: calc(var(--font-size-basic) * 4);
+  --font-size-x5: calc(var(--font-size-basic) * 5);
+  --font-size-x6: calc(var(--font-size-basic) * 6);
+  --font-size-x8: calc(var(--font-size-basic) * 8);
   --root-font-size-current: var(--root-font-size-desktop-large);
 }

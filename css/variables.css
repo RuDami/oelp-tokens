@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 13 Dec 2022 08:54:57 GMT
+ * Generated on Tue, 13 Dec 2022 10:25:11 GMT
  */
 
 :root {
@@ -12,24 +12,6 @@
   --breakpoint-tablet-portrait: 960px;
   --breakpoint-mobile-landscape: 640px;
   --breakpoint-mobile-portrait: 500px;
-  --root-font-size-desktop-ultra-large: 16px;
-  --root-font-size-desktop-large: 14px;
-  --root-font-size-desktop-middle: 14px;
-  --root-font-size-desktop-small: 14px;
-  --root-font-size-tablet: 14px;
-  --root-font-size-mobile: 12px;
-  --shadow-active-type: dropShadow;
-  --shadow-active-color: #0208201f;
-  --shadow-active-spread: 0px;
-  --shadow-active-blur: 12px;
-  --shadow-active-y: 2px;
-  --shadow-active-x: 0px;
-  --shadow-default-type: dropShadow;
-  --shadow-default-color: #0512460f;
-  --shadow-default-spread: 0px;
-  --shadow-default-blur: 12px;
-  --shadow-default-y: 2px;
-  --shadow-default-x: 0px;
   --font-weights-light: 300;
   --font-weights-regular: 400;
   --font-weights-medium: 500;
@@ -49,7 +31,25 @@
   --letter-spacing-0-4: 0.4px;
   --letter-spacing-0: 0;
   --font-size-basic: 4px;
+  --root-font-size-desktop-ultra-large: 16px;
+  --root-font-size-desktop-large: 14px;
+  --root-font-size-desktop-middle: 14px;
+  --root-font-size-desktop-small: 14px;
+  --root-font-size-tablet: 14px;
+  --root-font-size-mobile: 12px;
   --font-families-main: Inter;
+  --shadow-active-type: dropShadow;
+  --shadow-active-color: #0208201f;
+  --shadow-active-spread: 0px;
+  --shadow-active-blur: 12px;
+  --shadow-active-y: 2px;
+  --shadow-active-x: 0px;
+  --shadow-default-type: dropShadow;
+  --shadow-default-color: #0512460f;
+  --shadow-default-spread: 0px;
+  --shadow-default-blur: 12px;
+  --shadow-default-y: 2px;
+  --shadow-default-x: 0px;
   --score-very-bad: #f04545;
   --score-badly: #f08345;
   --score-satisfactory: #f0ca45;
@@ -107,6 +107,19 @@
   --gray-100: #c8c8c8;
   --gray-50: #e9e9e9;
   --gray-0: #fcfcfc;
+  --line-heights-x4: calc(var(--font-size-basic) * 4);
+  --line-heights-x5: calc(var(--font-size-basic) * 5);
+  --line-heights-x6: calc(var(--font-size-basic) * 6);
+  --line-heights-x7: calc(var(--font-size-basic) * 7);
+  --line-heights-x10: calc(var(--font-size-basic) * 10);
+  --font-size-x2-75: calc(var(--font-size-basic) * 2.75);
+  --font-size-x3: calc(var(--font-size-basic) * 3);
+  --font-size-x3-25: calc(var(--font-size-basic) * 3.25);
+  --font-size-x3-5: calc(var(--font-size-basic) * 3.5);
+  --font-size-x4: calc(var(--font-size-basic) * 4);
+  --font-size-x5: calc(var(--font-size-basic) * 5);
+  --font-size-x6: calc(var(--font-size-basic) * 6);
+  --font-size-x8: calc(var(--font-size-basic) * 8);
   --root-font-size-current: var(--root-font-size-desktop-large);
   --caption-x2-75-weight-3-text-decoration: var(--text-decoration-none);
   --caption-x2-75-weight-3-text-case: var(--text-case-none);
@@ -336,19 +349,6 @@
   --title-h1-weight-1-letter-spacing: var(--letter-spacing-0-32);
   --title-h1-weight-1-font-weight: var(--font-weights-extra-bold);
   --title-h1-weight-1-font-family: var(--font-families-main);
-  --line-heights-x4: calc(var(--font-size-basic) * 4);
-  --line-heights-x5: calc(var(--font-size-basic) * 5);
-  --line-heights-x6: calc(var(--font-size-basic) * 6);
-  --line-heights-x7: calc(var(--font-size-basic) * 7);
-  --line-heights-x10: calc(var(--font-size-basic) * 10);
-  --font-size-x2-75: calc(var(--font-size-basic) * 2.75);
-  --font-size-x3: calc(var(--font-size-basic) * 3);
-  --font-size-x3-25: calc(var(--font-size-basic) * 3.25);
-  --font-size-x3-5: calc(var(--font-size-basic) * 3.5);
-  --font-size-x4: calc(var(--font-size-basic) * 4);
-  --font-size-x5: calc(var(--font-size-basic) * 5);
-  --font-size-x6: calc(var(--font-size-basic) * 6);
-  --font-size-x8: calc(var(--font-size-basic) * 8);
   --caption-x2-75-weight-3-font-size: var(--font-size-x2-75);
   --caption-x2-75-weight-3-line-height: var(--line-heights-x4);
   --caption-x2-75-weight-2-font-size: var(--font-size-x2-75);

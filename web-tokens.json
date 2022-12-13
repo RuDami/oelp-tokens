@@ -144,10 +144,10 @@
         "value": "{fontSize.basic} * 4",
         "type": "lineHeights"
       },
-      "1,25rem": {
-        "value": "{rootFontSize.current} * 1.25",
+      "1,285rem": {
+        "value": "{rootFontSize.current} * 1.285",
         "type": "lineHeights",
-        "description": "1.25rem"
+        "description": "1.285rem"
       }
     },
     "letterSpacing": {
@@ -442,7 +442,7 @@
         "value": {
           "fontFamily": "{fontFamilies.main}",
           "fontWeight": "{fontWeights.medium}",
-          "lineHeight": "{lineHeights.1,25rem}",
+          "lineHeight": "{lineHeights.1,285rem}",
           "fontSize": "{fontSize.1rem}",
           "letterSpacing": "{letterSpacing.m0,28}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -455,7 +455,7 @@
         "value": {
           "fontFamily": "{fontFamilies.main}",
           "fontWeight": "{fontWeights.regular}",
-          "lineHeight": "{lineHeights.1,25rem}",
+          "lineHeight": "{lineHeights.1,285rem}",
           "fontSize": "{fontSize.1rem}",
           "letterSpacing": "{letterSpacing.m0,28}",
           "paragraphSpacing": "{paragraphSpacing.0}",

@@ -1,5 +1,11 @@
 {
   "main": {
+    "fontFamilies": {
+      "main": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      }
+    },
     "rootFontSize": {
       "mobile": {
         "value": "12px",
@@ -28,56 +34,6 @@
       "desktop-ultra-large": {
         "value": "16px",
         "type": "fontSizes"
-      }
-    },
-    "breakpoint": {
-      "mobile-portrait": {
-        "value": "500px",
-        "type": "other",
-        "description": "is < 500px => mobile"
-      },
-      "mobile-landscape": {
-        "value": "640px",
-        "type": "other",
-        "description": "is < 640px => mobile landscape"
-      },
-      "tablet-portrait": {
-        "value": "960px",
-        "type": "other",
-        "description": "is < 960px => tablet"
-      },
-      "tablet-landscape": {
-        "value": "1200px",
-        "type": "other",
-        "description": "is < 1200px => tablet landscape"
-      },
-      "desktop-small": {
-        "value": "1367px",
-        "type": "other",
-        "description": "is < 1367px => desktop small"
-      },
-      "desktop-middle": {
-        "value": "1600px",
-        "type": "other",
-        "description": "is < 1600px => desktop middle"
-      },
-      "desktop-large": {
-        "value": "1921px",
-        "type": "other",
-        "description": "is < 1921px => desktop large"
-      },
-      "desktop-ultra-large": {
-        "value": "2048px",
-        "type": "other",
-        "description": "is > 2048px => desktop ultra large"
-      }
-    }
-  },
-  "light": {
-    "fontFamilies": {
-      "main": {
-        "value": "Inter",
-        "type": "fontFamilies"
       }
     },
     "fontSize": {
@@ -228,6 +184,50 @@
         "description": "300"
       }
     },
+    "breakpoint": {
+      "mobile-portrait": {
+        "value": "500px",
+        "type": "other",
+        "description": "is < 500px => mobile"
+      },
+      "mobile-landscape": {
+        "value": "640px",
+        "type": "other",
+        "description": "is < 640px => mobile landscape"
+      },
+      "tablet-portrait": {
+        "value": "960px",
+        "type": "other",
+        "description": "is < 960px => tablet"
+      },
+      "tablet-landscape": {
+        "value": "1200px",
+        "type": "other",
+        "description": "is < 1200px => tablet landscape"
+      },
+      "desktop-small": {
+        "value": "1367px",
+        "type": "other",
+        "description": "is < 1367px => desktop small"
+      },
+      "desktop-middle": {
+        "value": "1600px",
+        "type": "other",
+        "description": "is < 1600px => desktop middle"
+      },
+      "desktop-large": {
+        "value": "1921px",
+        "type": "other",
+        "description": "is < 1921px => desktop large"
+      },
+      "desktop-ultra-large": {
+        "value": "2048px",
+        "type": "other",
+        "description": "is > 2048px => desktop ultra large"
+      }
+    }
+  },
+  "light": {
     "title": {
       "h1-weight-1": {
         "value": {

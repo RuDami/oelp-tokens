@@ -413,6 +413,19 @@
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography"
+        },
+        "h4-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3}",
+            "letterSpacing": "{letterSpacing.m0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
         }
       }
     },

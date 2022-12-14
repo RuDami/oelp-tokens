@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 14 Dec 2022 09:03:59 GMT
+ * Generated on Wed, 14 Dec 2022 09:12:53 GMT
  */
 
 :root {
@@ -50,12 +50,12 @@
   --shadow-active-desktop-blur: 12px;
   --shadow-active-desktop-y: 2px;
   --shadow-active-desktop-x: 0px;
+  --shadow-default-mobile-spread: 0;
+  --shadow-default-mobile-blur: 8;
+  --shadow-default-mobile-y: 2;
+  --shadow-default-mobile-x: 0;
   --shadow-default-mobile-type: dropShadow;
-  --shadow-default-mobile-color: #0512460f;
-  --shadow-default-mobile-spread: 0px;
-  --shadow-default-mobile-blur: 12px;
-  --shadow-default-mobile-y: 2px;
-  --shadow-default-mobile-x: 0px;
+  --shadow-default-mobile-color: #0512460a;
   --shadow-default-desktop-type: dropShadow;
   --shadow-default-desktop-color: #0512460f;
   --shadow-default-desktop-spread: 0px;

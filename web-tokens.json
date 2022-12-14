@@ -483,6 +483,21 @@
           },
           "type": "typography"
         }
+      },
+      "mobile": {
+        "weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,16}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
       }
     },
     "button": {

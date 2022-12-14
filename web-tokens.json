@@ -858,6 +858,19 @@
         }
       },
       "mobile": {
+        "x3,25-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,25}",
+            "letterSpacing": "{letterSpacing.m0,08}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "x2,75-weight-2": {
           "value": {
             "fontFamily": "{fontFamilies.main}",

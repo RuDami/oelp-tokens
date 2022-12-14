@@ -490,7 +490,7 @@
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x4}",
-            "fontSize": "{fontSize.x3,5}",
+            "fontSize": "{fontSize.x2,75}",
             "letterSpacing": "{letterSpacing.m0,16}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",

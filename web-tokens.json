@@ -896,12 +896,12 @@
       },
       "mobile": {
         "value": {
-          "x": "0px",
-          "y": "2px",
-          "blur": "12px",
-          "spread": "0px",
-          "color": "#0512460f",
-          "type": "dropShadow"
+          "color": "#0512460a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 8,
+          "spread": 0
         },
         "type": "boxShadow"
       }

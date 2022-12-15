@@ -899,6 +899,19 @@
           },
           "type": "typography"
         },
+        "x3,25-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,25}",
+            "letterSpacing": "{letterSpacing.m0,08}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "x2,75-weight-2": {
           "value": {
             "fontFamily": "{fontFamilies.main}",

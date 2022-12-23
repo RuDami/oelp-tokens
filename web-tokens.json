@@ -230,7 +230,7 @@
   "light": {
     "title": {
       "desktop": {
-        "h1-weight-1": {
+        "h1-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.extraBold}",
@@ -256,7 +256,7 @@
           },
           "type": "typography"
         },
-        "h1-weight-3": {
+        "h1-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -269,7 +269,7 @@
           },
           "type": "typography"
         },
-        "h2-weight-1": {
+        "h2-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.extraBold}",
@@ -295,7 +295,7 @@
           },
           "type": "typography"
         },
-        "h2-weight-3": {
+        "h2-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -308,7 +308,7 @@
           },
           "type": "typography"
         },
-        "h3-weight-1": {
+        "h3-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -334,7 +334,7 @@
           },
           "type": "typography"
         },
-        "h3-weight-3": {
+        "h3-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -347,7 +347,7 @@
           },
           "type": "typography"
         },
-        "h4-weight-1": {
+        "h4-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -373,7 +373,7 @@
           },
           "type": "typography"
         },
-        "h4-weight-3": {
+        "h4-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -414,7 +414,7 @@
           },
           "type": "typography"
         },
-        "h3-weight-1": {
+        "h3-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -427,7 +427,7 @@
           },
           "type": "typography"
         },
-        "h4-weight-1": {
+        "h4-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -444,7 +444,7 @@
     },
     "subheader": {
       "desktop": {
-        "weight-1": {
+        "weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.bold}",
@@ -470,7 +470,7 @@
           },
           "type": "typography"
         },
-        "weight-3": {
+        "weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -485,7 +485,7 @@
         }
       },
       "mobile": {
-        "weight-3": {
+        "weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -560,7 +560,7 @@
     },
     "text": {
       "desktop": {
-        "x4-weight-1": {
+        "x4-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -586,7 +586,7 @@
           },
           "type": "typography"
         },
-        "x4-weight-3": {
+        "x4-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -599,7 +599,7 @@
           },
           "type": "typography"
         },
-        "x3,5-weight-1": {
+        "x3,5-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -625,7 +625,7 @@
           },
           "type": "typography"
         },
-        "x3,5-weight-3": {
+        "x3,5-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -640,7 +640,7 @@
         }
       },
       "mobile": {
-        "x3,5-weight-3": {
+        "x3,5-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -657,7 +657,7 @@
     },
     "paragraph": {
       "desktop": {
-        "x4-weight-1": {
+        "x4-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -683,7 +683,7 @@
           },
           "type": "typography"
         },
-        "x4-weight-3": {
+        "x4-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -696,7 +696,7 @@
           },
           "type": "typography"
         },
-        "x3,5-weight-1": {
+        "x3,5-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -722,7 +722,7 @@
           },
           "type": "typography"
         },
-        "x3,5-weight-3": {
+        "x3,5-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -737,7 +737,7 @@
         }
       },
       "mobile": {
-        "x4-weight-3": {
+        "x4-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -750,7 +750,7 @@
           },
           "type": "typography"
         },
-        "x3,5-weight-3": {
+        "x3,5-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -767,7 +767,7 @@
     },
     "caption": {
       "desktop": {
-        "x3,25-weight-1": {
+        "x3,25-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -793,7 +793,7 @@
           },
           "type": "typography"
         },
-        "x3,25-weight-3": {
+        "x3,25-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -806,7 +806,7 @@
           },
           "type": "typography"
         },
-        "x3-weight-1": {
+        "x3-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -832,7 +832,7 @@
           },
           "type": "typography"
         },
-        "x3-weight-3": {
+        "x3-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -845,7 +845,7 @@
           },
           "type": "typography"
         },
-        "x2,75-weight-1": {
+        "x2,75-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -871,7 +871,7 @@
           },
           "type": "typography"
         },
-        "x2,75-weight-3": {
+        "x2,75-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -886,7 +886,7 @@
         }
       },
       "mobile": {
-        "x3,25-weight-1": {
+        "x3,25-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -925,7 +925,7 @@
           },
           "type": "typography"
         },
-        "x2,75-weight-1": {
+        "x2,75-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
@@ -938,7 +938,7 @@
           },
           "type": "typography"
         },
-        "x3-weight-3": {
+        "x3-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -951,7 +951,7 @@
           },
           "type": "typography"
         },
-        "x2,75-weight-3": {
+        "x2,75-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
@@ -964,7 +964,7 @@
           },
           "type": "typography"
         },
-        "x3,25-weight-3": {
+        "x3,25-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",

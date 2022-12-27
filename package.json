@@ -1,6 +1,6 @@
 {
   "name": "oelp-tokens",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "description": "oelp-tokens",
   "main": "index.js",
   "scripts": {

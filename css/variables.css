@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 27 Dec 2022 15:52:52 GMT
+ * Generated on Tue, 27 Dec 2022 16:18:43 GMT
  */
 
 :root {
@@ -331,6 +331,18 @@
   --text-desktop-x4-weight-3-letter-spacing: var(--letter-spacing-m0-24);
   --text-desktop-x4-weight-3-font-weight: var(--font-weights-semi-bold);
   --text-desktop-x4-weight-3-font-family: var(--font-families-main);
+  --button-tablet-lite-text-decoration: var(--text-decoration-none);
+  --button-tablet-lite-text-case: var(--text-case-none);
+  --button-tablet-lite-paragraph-spacing: 0;
+  --button-tablet-lite-letter-spacing: var(--letter-spacing-m0-28);
+  --button-tablet-lite-font-weight: var(--font-weights-regular);
+  --button-tablet-lite-font-family: var(--font-families-main);
+  --button-tablet-default-text-decoration: var(--text-decoration-none);
+  --button-tablet-default-text-case: var(--text-case-none);
+  --button-tablet-default-paragraph-spacing: 0;
+  --button-tablet-default-letter-spacing: var(--letter-spacing-m0-28);
+  --button-tablet-default-font-weight: var(--font-weights-medium);
+  --button-tablet-default-font-family: var(--font-families-main);
   --button-mobile-lite-text-decoration: var(--text-decoration-none);
   --button-mobile-lite-text-case: var(--text-case-none);
   --button-mobile-lite-paragraph-spacing: 0;
@@ -541,6 +553,10 @@
   --text-desktop-x4-weight-2-line-height: var(--line-heights-x5);
   --text-desktop-x4-weight-3-font-size: var(--font-size-x4);
   --text-desktop-x4-weight-3-line-height: var(--line-heights-x5);
+  --button-tablet-lite-font-size: var(--font-size-x3-5);
+  --button-tablet-lite-line-height: var(--line-heights-x4);
+  --button-tablet-default-font-size: var(--font-size-x3-5);
+  --button-tablet-default-line-height: var(--line-heights-x4);
   --button-mobile-lite-font-size: var(--font-size-x3-5);
   --button-mobile-lite-line-height: var(--line-heights-x4);
   --button-mobile-default-font-size: var(--font-size-x3-5);

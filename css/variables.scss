@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Tue, 27 Dec 2022 15:52:52 GMT
+// Generated on Tue, 27 Dec 2022 16:18:43 GMT
 
 $breakpoint-desktop-ultra-large: 2048px;
 $breakpoint-desktop-large: 1921px;
@@ -329,6 +329,18 @@ $text-desktop-x4-weight-3-paragraph-spacing: 0;
 $text-desktop-x4-weight-3-letter-spacing: $letter-spacing-m0-24;
 $text-desktop-x4-weight-3-font-weight: $font-weights-semi-bold;
 $text-desktop-x4-weight-3-font-family: $font-families-main;
+$button-tablet-lite-text-decoration: $text-decoration-none;
+$button-tablet-lite-text-case: $text-case-none;
+$button-tablet-lite-paragraph-spacing: 0;
+$button-tablet-lite-letter-spacing: $letter-spacing-m0-28;
+$button-tablet-lite-font-weight: $font-weights-regular;
+$button-tablet-lite-font-family: $font-families-main;
+$button-tablet-default-text-decoration: $text-decoration-none;
+$button-tablet-default-text-case: $text-case-none;
+$button-tablet-default-paragraph-spacing: 0;
+$button-tablet-default-letter-spacing: $letter-spacing-m0-28;
+$button-tablet-default-font-weight: $font-weights-medium;
+$button-tablet-default-font-family: $font-families-main;
 $button-mobile-lite-text-decoration: $text-decoration-none;
 $button-mobile-lite-text-case: $text-case-none;
 $button-mobile-lite-paragraph-spacing: 0;
@@ -539,6 +551,10 @@ $text-desktop-x4-weight-2-font-size: $font-size-x4;
 $text-desktop-x4-weight-2-line-height: $line-heights-x5;
 $text-desktop-x4-weight-3-font-size: $font-size-x4;
 $text-desktop-x4-weight-3-line-height: $line-heights-x5;
+$button-tablet-lite-font-size: $font-size-x3-5;
+$button-tablet-lite-line-height: $line-heights-x4;
+$button-tablet-default-font-size: $font-size-x3-5;
+$button-tablet-default-line-height: $line-heights-x4;
 $button-mobile-lite-font-size: $font-size-x3-5;
 $button-mobile-lite-line-height: $line-heights-x4;
 $button-mobile-default-font-size: $font-size-x3-5;

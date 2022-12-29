@@ -432,7 +432,7 @@
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
             "lineHeight": "{lineHeights.x4}",
-            "fontSize": "{fontSize.x3}",
+            "fontSize": "{fontSize.x3,5}",
             "letterSpacing": "{letterSpacing.m0,32}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",

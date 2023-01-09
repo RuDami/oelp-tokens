@@ -525,6 +525,19 @@
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography"
+        },
+        "weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3}",
+            "letterSpacing": "{letterSpacing.m0,16}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
         }
       },
       "mobile": {

@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Thu, 29 Dec 2022 12:10:00 GMT
+// Generated on Mon, 09 Jan 2023 11:05:47 GMT
 
 $breakpoint-desktop-ultra-large: 2048px;
 $breakpoint-desktop-large: 1921px;
@@ -305,6 +305,12 @@ $text-mobile-x3-5-weight-1-paragraph-spacing: 0;
 $text-mobile-x3-5-weight-1-letter-spacing: $letter-spacing-m0-24;
 $text-mobile-x3-5-weight-1-font-weight: $font-weights-regular;
 $text-mobile-x3-5-weight-1-font-family: $font-families-main;
+$text-tablet-x3-5-weight-1-text-decoration: $text-decoration-none;
+$text-tablet-x3-5-weight-1-text-case: $text-case-none;
+$text-tablet-x3-5-weight-1-paragraph-spacing: 0;
+$text-tablet-x3-5-weight-1-letter-spacing: $letter-spacing-m0-24;
+$text-tablet-x3-5-weight-1-font-weight: $font-weights-regular;
+$text-tablet-x3-5-weight-1-font-family: $font-families-main;
 $text-tablet-x4-weight-1-text-decoration: $text-decoration-none;
 $text-tablet-x4-weight-1-text-case: $text-case-none;
 $text-tablet-x4-weight-1-paragraph-spacing: 0;
@@ -579,6 +585,8 @@ $text-mobile-x3-5-weight-2-font-size: $font-size-x3-5;
 $text-mobile-x3-5-weight-2-line-height: $line-heights-x4;
 $text-mobile-x3-5-weight-1-font-size: $font-size-x3-5;
 $text-mobile-x3-5-weight-1-line-height: $line-heights-x4;
+$text-tablet-x3-5-weight-1-font-size: $font-size-x3-25;
+$text-tablet-x3-5-weight-1-line-height: $line-heights-x4;
 $text-tablet-x4-weight-1-font-size: $font-size-x3-5;
 $text-tablet-x4-weight-1-line-height: $line-heights-x4;
 $text-desktop-x3-5-weight-1-font-size: $font-size-x3-5;
@@ -607,7 +615,7 @@ $button-desktop-default-font-size: $font-size-x4;
 $button-desktop-default-line-height: $line-heights-x5;
 $subheader-mobile-weight-1-font-size: $font-size-x2-75;
 $subheader-mobile-weight-1-line-height: $line-heights-x4;
-$subheader-tablet-weight-1-font-size: $font-size-x3-5;
+$subheader-tablet-weight-1-font-size: $font-size-x3;
 $subheader-tablet-weight-1-line-height: $line-heights-x4;
 $subheader-desktop-weight-1-font-size: $font-size-x3-5;
 $subheader-desktop-weight-1-line-height: $line-heights-x4;

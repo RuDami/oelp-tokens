@@ -518,7 +518,7 @@
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x4}",
-            "fontSize": "{fontSize.x3,5}",
+            "fontSize": "{fontSize.x3}",
             "letterSpacing": "{letterSpacing.m0,16}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",
@@ -717,6 +717,19 @@
             "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3,5-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,25}",
             "letterSpacing": "{letterSpacing.m0,24}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",

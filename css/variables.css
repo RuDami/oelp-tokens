@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 09 Jan 2023 15:43:14 GMT
+ * Generated on Mon, 09 Jan 2023 16:07:38 GMT
  */
 
 :root {
@@ -439,6 +439,12 @@
   --subheader-mobile-weight-1-letter-spacing: var(--letter-spacing-m0-16);
   --subheader-mobile-weight-1-font-weight: var(--font-weights-regular);
   --subheader-mobile-weight-1-font-family: var(--font-families-main);
+  --subheader-tablet-weight-2-text-decoration: var(--text-decoration-none);
+  --subheader-tablet-weight-2-text-case: var(--text-case-none);
+  --subheader-tablet-weight-2-paragraph-spacing: 0;
+  --subheader-tablet-weight-2-letter-spacing: var(--letter-spacing-m0-16);
+  --subheader-tablet-weight-2-font-weight: var(--font-weights-medium);
+  --subheader-tablet-weight-2-font-family: var(--font-families-main);
   --subheader-tablet-weight-1-text-decoration: var(--text-decoration-none);
   --subheader-tablet-weight-1-text-case: var(--text-case-none);
   --subheader-tablet-weight-1-paragraph-spacing: 0;
@@ -669,6 +675,8 @@
   --button-desktop-default-line-height: var(--line-heights-x5);
   --subheader-mobile-weight-1-font-size: var(--font-size-x2-75);
   --subheader-mobile-weight-1-line-height: var(--line-heights-x4);
+  --subheader-tablet-weight-2-font-size: var(--font-size-x3);
+  --subheader-tablet-weight-2-line-height: var(--line-heights-x4);
   --subheader-tablet-weight-1-font-size: var(--font-size-x3);
   --subheader-tablet-weight-1-line-height: var(--line-heights-x4);
   --subheader-desktop-weight-1-font-size: var(--font-size-x3-5);

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 09 Jan 2023 13:14:54 GMT
+ * Generated on Mon, 09 Jan 2023 15:12:31 GMT
  */
 
 :root {
@@ -265,6 +265,12 @@
   --caption-desktop-x3-25-weight-3-letter-spacing: var(--letter-spacing-m0-08);
   --caption-desktop-x3-25-weight-3-font-weight: var(--font-weights-semi-bold);
   --caption-desktop-x3-25-weight-3-font-family: var(--font-families-main);
+  --paragraph-tablet-x4-weight-1-text-decoration: var(--text-decoration-none);
+  --paragraph-tablet-x4-weight-1-text-case: var(--text-case-none);
+  --paragraph-tablet-x4-weight-1-paragraph-spacing: 0;
+  --paragraph-tablet-x4-weight-1-letter-spacing: var(--letter-spacing-m0-24);
+  --paragraph-tablet-x4-weight-1-font-weight: var(--font-weights-regular);
+  --paragraph-tablet-x4-weight-1-font-family: var(--font-families-main);
   --paragraph-mobile-x3-5-weight-1-text-decoration: var(--text-decoration-none);
   --paragraph-mobile-x3-5-weight-1-text-case: var(--text-case-none);
   --paragraph-mobile-x3-5-weight-1-paragraph-spacing: 0;
@@ -593,6 +599,8 @@
   --caption-desktop-x3-25-weight-2-line-height: var(--line-heights-x4);
   --caption-desktop-x3-25-weight-3-font-size: var(--font-size-x3-25);
   --caption-desktop-x3-25-weight-3-line-height: var(--line-heights-x4);
+  --paragraph-tablet-x4-weight-1-font-size: var(--font-size-x3-5);
+  --paragraph-tablet-x4-weight-1-line-height: var(--line-heights-x5);
   --paragraph-mobile-x3-5-weight-1-font-size: var(--font-size-x3);
   --paragraph-mobile-x3-5-weight-1-line-height: var(--line-heights-x5);
   --paragraph-mobile-x4-weight-1-font-size: var(--font-size-x3-5);

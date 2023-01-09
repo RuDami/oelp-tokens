@@ -1144,14 +1144,25 @@
         },
         "type": "boxShadow"
       },
+      "tablet": {
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "8px",
+          "spread": "0px",
+          "color": "#0512460a",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
       "mobile": {
         "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "8px",
+          "spread": "0px",
           "color": "#0512460a",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 8,
-          "spread": 0
+          "type": "dropShadow"
         },
         "type": "boxShadow"
       }
@@ -1171,6 +1182,17 @@
     },
     "shadow-popup": {
       "mobile": {
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "12px",
+          "spread": "0px",
+          "color": "#0208201f",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "tablet": {
         "value": {
           "x": "0px",
           "y": "2px",

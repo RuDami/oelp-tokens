@@ -237,6 +237,10 @@
         "value": "rgba(0,0,0,0.4)",
         "type": "color"
       },
+      "dark-back": {
+        "value": "#000000",
+        "type": "color"
+      },
       "back": {
         "value": "#e3e5e8",
         "type": "color"

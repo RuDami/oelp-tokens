@@ -388,6 +388,19 @@
         }
       },
       "mobile": {
+        "h1-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.extraBold}",
+            "lineHeight": "{lineHeights.x6}",
+            "fontSize": "{fontSize.x5}",
+            "letterSpacing": "{letterSpacing.0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "h1-weight-2": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
@@ -401,10 +414,49 @@
           },
           "type": "typography"
         },
+        "h1-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
+            "lineHeight": "{lineHeights.x6}",
+            "fontSize": "{fontSize.x5}",
+            "letterSpacing": "{letterSpacing.0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h2-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.extraBold}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x4}",
+            "letterSpacing": "{letterSpacing.0,38}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "h2-weight-2": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x4}",
+            "letterSpacing": "{letterSpacing.0,38}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h2-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x5}",
             "fontSize": "{fontSize.x4}",
             "letterSpacing": "{letterSpacing.0,38}",
@@ -427,25 +479,23 @@
           },
           "type": "typography"
         },
-        "h4-weight-3": {
+        "h3-weight-2": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
-            "fontWeight": "{fontWeights.semiBold}",
+            "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3,5}",
-            "letterSpacing": "{letterSpacing.m0,32}",
+            "letterSpacing": "{letterSpacing.0,4}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography"
-        }
-      },
-      "tablet": {
-        "h3-weight-3": {
+        },
+        "h3-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
-            "fontWeight": "{fontWeights.semiBold}",
+            "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3,5}",
             "letterSpacing": "{letterSpacing.0,4}",
@@ -459,6 +509,190 @@
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h4-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h4-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "tablet": {
+        "h1-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.extraBold}",
+            "lineHeight": "{lineHeights.x6}",
+            "fontSize": "{fontSize.x5}",
+            "letterSpacing": "{letterSpacing.0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h1-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x6}",
+            "fontSize": "{fontSize.x5}",
+            "letterSpacing": "{letterSpacing.0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h1-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
+            "lineHeight": "{lineHeights.x6}",
+            "fontSize": "{fontSize.x5}",
+            "letterSpacing": "{letterSpacing.0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h2-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.extraBold}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x4}",
+            "letterSpacing": "{letterSpacing.0,38}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h2-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x4}",
+            "letterSpacing": "{letterSpacing.0,38}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h2-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x4}",
+            "letterSpacing": "{letterSpacing.0,38}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h3-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.0,4}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h3-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.0,4}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h3-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.0,4}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h4-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h4-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,32}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "h4-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3,5}",
             "letterSpacing": "{letterSpacing.m0,32}",
@@ -538,6 +772,19 @@
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography"
+        },
+        "weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.extraBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3}",
+            "letterSpacing": "{letterSpacing.m0,16}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
         }
       },
       "mobile": {
@@ -545,6 +792,32 @@
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x2,75}",
+            "letterSpacing": "{letterSpacing.m0,16}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x2,75}",
+            "letterSpacing": "{letterSpacing.m0,16}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.extraBold}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x2,75}",
             "letterSpacing": "{letterSpacing.m0,16}",
@@ -724,6 +997,32 @@
         }
       },
       "tablet": {
+        "x4-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x4-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "x4-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
@@ -737,10 +1036,10 @@
           },
           "type": "typography"
         },
-        "x3,5-weight-1": {
+        "x3,5-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
-            "fontWeight": "{fontWeights.regular}",
+            "fontWeight": "{fontWeights.semiBold}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3,25}",
             "letterSpacing": "{letterSpacing.m0,24}",
@@ -754,6 +1053,19 @@
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,25}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3,5-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3,25}",
             "letterSpacing": "{letterSpacing.m0,24}",
@@ -765,6 +1077,32 @@
         }
       },
       "mobile": {
+        "x4-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x4-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "x4-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
@@ -778,10 +1116,10 @@
           },
           "type": "typography"
         },
-        "x3,5-weight-1": {
+        "x3,5-weight-3": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
-            "fontWeight": "{fontWeights.regular}",
+            "fontWeight": "{fontWeights.semiBold}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3,5}",
             "letterSpacing": "{letterSpacing.m0,24}",
@@ -795,6 +1133,19 @@
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3,5-weight-1": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3,5}",
             "letterSpacing": "{letterSpacing.m0,24}",
@@ -888,12 +1239,64 @@
         }
       },
       "mobile": {
+        "x4-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x4-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "x4-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x5}",
             "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3,5-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x3}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3,5-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x3}",
             "letterSpacing": "{letterSpacing.m0,24}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",
@@ -916,12 +1319,64 @@
         }
       },
       "tablet": {
+        "x4-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x4-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "x4-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x5}",
             "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3,5-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x3,25}",
+            "letterSpacing": "{letterSpacing.m0,24}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3,5-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x5}",
+            "fontSize": "{fontSize.x3,25}",
             "letterSpacing": "{letterSpacing.m0,24}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",
@@ -1104,6 +1559,32 @@
           },
           "type": "typography"
         },
+        "x3-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3}",
+            "letterSpacing": "{letterSpacing.m0,08}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3}",
+            "letterSpacing": "{letterSpacing.m0,08}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "x3-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
@@ -1158,12 +1639,64 @@
         }
       },
       "tablet": {
+        "x3,25-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,08}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3,25-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,08}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "x3,25-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
             "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3,5}",
+            "letterSpacing": "{letterSpacing.m0,08}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3-weight-3": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.semiBold}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3}",
+            "letterSpacing": "{letterSpacing.m0,08}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "x3-weight-2": {
+          "value": {
+            "fontFamily": "{fontFamilies.main}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.x4}",
+            "fontSize": "{fontSize.x3}",
             "letterSpacing": "{letterSpacing.m0,08}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "textCase": "{textCase.none}",
@@ -1197,10 +1730,10 @@
           },
           "type": "typography"
         },
-        "x2,75-weight-1": {
+        "x2,75-weight-2": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
-            "fontWeight": "{fontWeights.regular}",
+            "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3}",
             "letterSpacing": "{letterSpacing.0}",
@@ -1210,10 +1743,10 @@
           },
           "type": "typography"
         },
-        "x2,75-weight-2": {
+        "x2,75-weight-1": {
           "value": {
             "fontFamily": "{fontFamilies.main}",
-            "fontWeight": "{fontWeights.medium}",
+            "fontWeight": "{fontWeights.regular}",
             "lineHeight": "{lineHeights.x4}",
             "fontSize": "{fontSize.x3}",
             "letterSpacing": "{letterSpacing.0}",

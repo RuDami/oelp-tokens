@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 30 Jan 2023 14:40:17 GMT
+ * Generated on Tue, 31 Jan 2023 13:56:42 GMT
  */
 
 :root {
@@ -83,6 +83,7 @@
   --macro-region-outline-dark-green: #54ed76;
   --macro-region-outline-orange: #f6ce9e;
   --macro-region-outline-pink: #f986a5;
+  --macro-region-outline-violet: #bf89f5;
   --heat-status-red-alpha: #f04b4570;
   --heat-status-red: #f04b45;
   --heat-status-yellow-alpha: #f0bc0370;
@@ -114,6 +115,8 @@
   --macro-region-orange: #f8931f;
   --macro-region-pink-alpha: #ee2d6299;
   --macro-region-pink: #ee2d62;
+  --macro-region-violet-alpha: #8d2dee99;
+  --macro-region-violet: #8d2dee;
   --macro-region-marker-text-outline: #eeeeee;
   --surface-front: #fafafa;
   --surface-mid: #f2f3f5;

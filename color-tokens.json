@@ -107,6 +107,14 @@
       }
     },
     "macro-region": {
+      "violet": {
+        "value": "#8d2dee",
+        "type": "color"
+      },
+      "violet-alpha": {
+        "value": "#8d2dee99",
+        "type": "color"
+      },
       "pink": {
         "value": "#ee2d62",
         "type": "color"
@@ -141,6 +149,10 @@
       }
     },
     "macro-region-outline": {
+      "violet": {
+        "value": "#bf89f5",
+        "type": "color"
+      },
       "pink": {
         "value": "#f986a5",
         "type": "color"
